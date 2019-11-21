@@ -11,16 +11,19 @@
 <body style="background-color:#232323">
     <div id="header" class="header" >
       <a href="emerylin.me" class="brand">Emery</a>
-      <ul class="nav">
-        <a href="#aboutme" class="nav-selected">About Me</a>
-        <a href="#solutions" class="nav-default">Solutions</a>  
-      </ul>
+      <div class="nav">
+        <a href="#aboutme">About Me</a>
+        <a href="#solutions">Solutions</a>  
+      </div>
       <div class="copyright">
         Emery Lin © since 2014  ✌️ ❤️ 🙏🏿
       </div>
     </div>
+    <div class="topdevider" id="aboutme">
+    </div>
 
-    <div id="aboutme" class="main" style="display: block;">
+
+    <div class="main">
       <div class="introduce-box">
         <div class="portrait">
           <!--pic-->
@@ -36,18 +39,49 @@
         </button>
       </div> 
 
+
+
       <p id="declare" class="declare">
           This is an announcement about the copyright of design and development on site, maybe it’s very very veryvery very very veryvery long long long. 
       </p>
 
-      <div id="solutions" class="solutions">
-        <p class="projectname">SaaS : Zhuge’io (Jan. 2017~ present)</p>
-        <div id="solutions">
+
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script>
+      $(document).ready(function(){
+        // Add smooth scrolling to all links
+        $("a").on('click', function(event) {
+      
+          // Make sure this.hash has a value before overriding default behavior
+          if (this.hash !== "") {
+            // Prevent default anchor click behavior
+            event.preventDefault();
+      
+            // Store hash
+            var hash = this.hash;
+      
+            // Using jQuery's animate() method to add smooth page scroll
+            // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
+            $('html, body').animate({
+              scrollTop: $(hash).offset().top
+            }, 800, function(){
+         
+              // Add hash (#) to URL when done scrolling (default click behavior)
+              window.location.hash = hash;
+            });
+          } // End if
+        });
+      });
+      </script>
+
+      <div class="solutions" id="solutions">
+        <p class="projectname">SaaS : Zhuge’io (Jan. 2017 ~ present)</p>
+        <div>
           <iframe src="//slides.com/emeryl/deck/embed" width="500" height="400" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
         </div>  
       </div>
 
-  
+
 
     </div>
 

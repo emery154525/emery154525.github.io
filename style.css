@@ -21,6 +21,7 @@
   left: 25px;
   top: 15px;
   text-decoration: none;
+  width: 100px;
 }
 
 .nav{
@@ -29,55 +30,62 @@
   font-size: 18px;
   color: #C7C7C7;
   letter-spacing: 0.25px;
-  text-align: left;
+  text-align: center;
   line-height: 22px;
   margin-top: 38px;
   margin-left: 40px;
   left: 80px;
   top: -20px;
+  text-decoration: none;
+  display: block;
+  float: left;
 }
 
-ul :hover{
-  font-family: PingFangSC-Medium;
-  font-size: 20px;
-  color: #FFFFFF;
-  text-align: right;
-  line-height: 22px;
+.nav a{
+  font-family: PingFangSC-Regular;
+  font-size: 18px;
+  color: #C7C7C7;
+  text-align: center;
+  text-decoration: none;
   transition: 0.3s;
-  cursor:pointer;
+  margin: 20px;
 }
 
-.nav-selected{
+.nav a:hover{
   font-family: PingFangSC-Medium;
   font-size: 20px;
   color: #FFFFFF;
-  text-align: right;
+  text-align: center;
+  cursor:pointer;
+  text-decoration: none;
+}
+
+.nav a:active{
+  font-family: PingFangSC-Medium;
+  font-size: 20px;
+  color: #FFFFFF;
+  text-align: center;
   line-height: 22px; 
   text-decoration: none;
 }
 
-.nav-default{
-  font-family: PingFangSC-Regular;
-  font-size: 18px;
-  color: #C7C7C7;
-  letter-spacing: 0.25px;
-  text-align: right;
-  line-height: 22px;
-  margin-left: 40px;
-  text-decoration: none;
-  transition: 0.3s;
+
+.topdevider{
+  height: 80px;
+  width: auto;
+  position: relative;
+  top: -64px;
 }
 
 
+  /* main content */
 .main {
   position: relative;
   width: 1050px;
-  margin-top: 100px;
   margin-left: auto;
   margin-right: auto;
   overflow-y: hidden;
   scroll-behavior: smooth;
-  /* main content */
 }
 
 
@@ -100,6 +108,7 @@ ul :hover{
   background-color: #454646;
   position: relative;
   top: 56px;
+  transition: ;
 }
 
 
@@ -189,7 +198,7 @@ ul :hover{
   font-size: 22px;
   color: #FFFFFF;
   letter-spacing: 0.22px;
-  margin: 15px;
+  margin: 20px;
 }
 
 .solutions{
@@ -197,7 +206,7 @@ ul :hover{
   top: -160px;
 }
 
-.project-omingsoon{
+.project-comingsoon{
   width: 500px;
   height: 400px;
   background: #5F6061;
