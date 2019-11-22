@@ -24,34 +24,37 @@
   width: 100px;
 }
 
-.nav{
+.ul{
   position: absolute;
   font-family: PingFangSC-Regular;
   font-size: 18px;
   color: #C7C7C7;
   letter-spacing: 0.25px;
-  text-align: center;
+  text-align: left;
   line-height: 22px;
-  margin-top: 38px;
-  margin-left: 40px;
-  left: 80px;
-  top: -20px;
+  left: 120px;
+  top: 2px;
   text-decoration: none;
-  display: block;
-  float: left;
+  width: 300px;
 }
 
-.nav a{
+.ul li{
+  float: left;
+  display: table-caption;
+  width: 120px;
+}
+
+.ul li a{
   font-family: PingFangSC-Regular;
   font-size: 18px;
   color: #C7C7C7;
-  text-align: center;
+  text-align: left;
   text-decoration: none;
+  width: 120px;
   transition: 0.3s;
-  margin: 20px;
 }
 
-.nav a:hover{
+.ul li a:hover{
   font-family: PingFangSC-Medium;
   font-size: 20px;
   color: #FFFFFF;
@@ -60,7 +63,7 @@
   text-decoration: none;
 }
 
-.nav a:active{
+.ul li a:active{
   font-family: PingFangSC-Medium;
   font-size: 20px;
   color: #FFFFFF;
