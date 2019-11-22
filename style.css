@@ -63,7 +63,7 @@
   text-decoration: none;
 }
 
-.ul li a:active{
+.ul li a.active{
   font-family: PingFangSC-Medium;
   font-size: 20px;
   color: #FFFFFF;
@@ -77,26 +77,22 @@
   height: 80px;
   width: auto;
   position: relative;
-  top: -64px;
-}
+  top: 50px;
+} 
 
 
   /* main content */
 .main {
   position: relative;
   width: 1050px;
+  top: 50px;
   margin-left: auto;
   margin-right: auto;
-  overflow-y: hidden;
   scroll-behavior: smooth;
 }
 
-
 .introduce-box{
-  width: 1050px;
-  margin-top: 50px;
-  margin-left: auto;
-  margin-right: auto;
+  position: relative;
 }
 
 *{
@@ -192,10 +188,19 @@
   text-align: center;
   position: relative;
   margin: auto;
-  top: -320px;
+  top: -340px;
   font-weight: lighter;
 }
 
+.sectiondevider{
+  height: 80px;
+  width: auto;
+  position: relative;
+  top: -260px;
+}
+
+
+/*section counter cards*/
 .projectname{
   font-family: PingFangSC-Semibold;
   font-size: 22px;
@@ -206,30 +211,32 @@
 
 .solutions{
   position: relative;
-  top: -160px;
+  top: -260px;
 }
 
-.project-comingsoon{
+.solutions-comingsoon{
   width: 500px;
   height: 400px;
-  background: #5F6061;
+  position: relative;
+  top: -735px;
+  left: 550px;
 }
 
-.comingsoon{
+.comingsoon-box{
+  width: 500px;
+  height: 400px;
+  background-color: #454646;
+}
+
+.comingsoon-text{
   font-family: HelveticaNeue-Bold;
   font-size: 50px;
   color: #5F6061;
   letter-spacing: 0.5px;
-  margin: auto;
-}
-
-.project2{
-  font-family: PingFangSC-Semibold;
-  font-size: 22px;
-  color: #FFFFFF;
-  letter-spacing: 0.22px;
-  margin: 15px;
+  text-transform: uppercase;
   position: relative;
-  top: -200px;
-  left: 550px;
+  top: -240px;
+  width: 500px;
+  height: 400px;
+  text-align: center;
 }
