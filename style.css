@@ -112,7 +112,7 @@
   position: relative;
   /* top: 56px; */
   margin: 57px 0;
-  transition: ;
+  transition: 0.3s;
 }
 
 
@@ -127,7 +127,7 @@
   font-family: PingFangSC-Semibold;
   letter-spacing: 0.34px;
   line-height: 32px;
-  margin: 0 0 10px;
+  margin: 0 0 20px;
 }
 
 .introduce-text{
@@ -147,9 +147,9 @@
 .cvbutton{
   background: #1D74DF;
   border-radius: 4px;
-  width: 120px;
+  width: 166px;
   height: 50px;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-left: auto;
   position: relative;
   /* left: 550px;
