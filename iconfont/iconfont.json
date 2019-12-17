@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "47837957",
+      "name": "mail_default",
+      "font_class": "mail_default",
+      "unicode": "e6fc",
+      "unicode_decimal": 59132
+    },
+    {
+      "icon_id": "47837958",
+      "name": "facebook_default",
+      "font_class": "facebook_default",
+      "unicode": "e6fd",
+      "unicode_decimal": 59133
+    },
+    {
+      "icon_id": "47837959",
+      "name": "zhihu_default",
+      "font_class": "zhihu_default",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    },
+    {
+      "icon_id": "47837960",
+      "name": "dribbble_default",
+      "font_class": "dribbble_default",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    }
+  ]
+}

@@ -245,3 +245,60 @@
   text-align: center;
 }
 
+
+
+.icon-bar{
+  margin: 18px 20px 0 0;
+  float: right;
+  position: relative;
+  right: 210px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.icon-bar a{
+  text-align: center;
+  color: #595B60;
+  margin-right: 10px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.icon-bar a:hover .iconfont{
+  background: radial-gradient(white 60%, transparent 50%);
+}
+
+.icon-bar a:hover .email{
+  color: #058DF4;
+}
+
+.icon-bar a:hover .zhihu{
+  color: #0084FF;
+}
+
+.icon-bar a:hover .dribbble{
+  color: #EA4C89;
+}
+
+.icon-bar a:hover .facebook{
+  color: #4267B2;
+}
+
+
+@font-face {
+  font-family: 'iconfont';
+  src: url('./iconfont/iconfont.eot');
+  src: url('./iconfont/iconfont.eot?#iefix') format('embedded-opentype'),
+      url('./iconfont/iconfont.woff2') format('woff2'),
+      url('./iconfont/iconfont.woff') format('woff'),
+      url('./iconfont/iconfont.ttf') format('truetype'),
+      url('./iconfont/iconfont.svg#iconfont') format('svg');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 28px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
