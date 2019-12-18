@@ -164,10 +164,10 @@
 }
 
 .cvtext{
-  font-family: HelveticaNeue-Bold;
-  font-size: 22px;
+  font-family: HelveticaNeue-Medium;
+  font-size: 20px;
   color: #FFFFFF;
-  letter-spacing: 2px;
+  letter-spacing: 2.0px;
   line-height: 26px;
   position: relative;
   margin: auto;
@@ -188,12 +188,12 @@
 
 .declare{
   font-family: PingFangSC-Regular;
-  font-size: 14px;
+  font-size: 16px;
   color: #C7C7C7;
   letter-spacing: 0.14px;
   text-align: center;
   position: relative;
-  margin: 100px auto;
+  margin: 120px auto;
   /* top: -340px; */
   font-weight: lighter;
 }
