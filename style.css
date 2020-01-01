@@ -106,7 +106,7 @@
 
 
 .portrait {
-  height: 370px;
+  height: 500px;
   width: 500px;
   background-color: #454646;
   position: relative;
@@ -134,14 +134,14 @@
   position: relative;
   margin: 0;
   width: 500px;
+  letter-spacing: 0.8px;
+  font-family: PingFangSC;
+  font-weight: 300;
   /* top: -430px;
   left: 550px; */
-  font-size: 16px;
-  font-style: initial;
+  font-size: 20px;
   color: #ffffff;
-  letter-spacing: 0.16px;
   line-height: 32px; 
-  font-family: PingFangSC-Regular;
 }
 
 .cvbutton{
@@ -193,7 +193,8 @@
   letter-spacing: 0.14px;
   text-align: center;
   position: relative;
-  margin: 120px auto;
+  margin-top: 60px;
+  margin-bottom: 120px;
   /* top: -340px; */
   font-weight: lighter;
 }
