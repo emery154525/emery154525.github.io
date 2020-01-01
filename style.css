@@ -114,6 +114,13 @@
   margin: 57px 0;
   transition: 0.3s;
 }
+.portrait > .img {
+  width: 500px;
+  height: 500px;
+  background-size: cover;
+  background-image: url('/pics/portrait.jpg');
+  /* background-image: url(data:image/gif;base64,R0lGODlhBAABAIABAMLBwfLx8SH5BAEAAAEALAAAAAAEAAEAAAICRF4AOw==); */
+}
 
 
 .introduce-big {
