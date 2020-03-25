@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="366px" viewBox="0 0 500 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>pic_thumbnail_zhugeio</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.2606424%" y1="18%" x2="100%" y2="82%" id="linearGradient-1">
+            <stop stop-color="#0E80EB" offset="0%"></stop>
+            <stop stop-color="#5D71F0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="17.6" cy="17.6" r="17.6"></circle>
+        <filter x="-31.3%" y="-28.4%" width="162.5%" height="162.5%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.69333333,58.6666667 L435.306667,58.6666667 C437.898723,58.6666667 440,60.7679436 440,63.36 L440,376.64 C440,379.232056 437.898723,381.333333 435.306667,381.333333 L4.69333333,381.333333 C2.10127691,381.333333 -5.01163516e-15,379.232056 0,376.64 L0,63.36 C-3.17435361e-16,60.7679436 2.10127691,58.6666667 4.69333333,58.6666667 Z" id="path-4"></path>
+        <filter x="-4.9%" y="-6.4%" width="109.8%" height="113.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M230.56,73.3333333 L315.04,73.3333333 C317.632056,73.3333333 319.733333,75.4346102 319.733333,78.0266667 L319.733333,132 C319.733333,134.592056 317.632056,136.693333 315.04,136.693333 L230.56,136.693333 C227.967944,136.693333 225.866667,134.592056 225.866667,132 L225.866667,78.0266667 C225.866667,75.4346102 227.967944,73.3333333 230.56,73.3333333 Z" id="path-6"></path>
+        <filter x="-11.7%" y="-15.8%" width="123.4%" height="134.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-8" x="0" y="0" width="7.04" height="7.04"></rect>
+        <path d="M19.36,73.3333333 L103.84,73.3333333 C106.432056,73.3333333 108.533333,75.4346102 108.533333,78.0266667 L108.533333,132 C108.533333,134.592056 106.432056,136.693333 103.84,136.693333 L19.36,136.693333 C16.7679436,136.693333 14.6666667,134.592056 14.6666667,132 L14.6666667,78.0266667 C14.6666667,75.4346102 16.7679436,73.3333333 19.36,73.3333333 Z" id="path-10"></path>
+        <filter x="-11.7%" y="-15.8%" width="123.4%" height="134.7%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-12" x="0" y="0" width="7.04" height="7.04"></rect>
+        <path d="M124.96,73.3333333 L209.44,73.3333333 C212.032056,73.3333333 214.133333,75.4346102 214.133333,78.0266667 L214.133333,132 C214.133333,134.592056 212.032056,136.693333 209.44,136.693333 L124.96,136.693333 C122.367944,136.693333 120.266667,134.592056 120.266667,132 L120.266667,78.0266667 C120.266667,75.4346102 122.367944,73.3333333 124.96,73.3333333 Z" id="path-14"></path>
+        <filter x="-11.7%" y="-15.8%" width="123.4%" height="134.7%" filterUnits="objectBoundingBox" id="filter-15">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-16" x="0" y="0" width="7.04" height="7.04"></rect>
+        <path d="M4.69333333,0 L194.773333,0 C197.36539,-4.76153041e-16 199.466667,2.10127691 199.466667,4.69333333 L199.466667,88 C199.466667,90.5920564 197.36539,92.6933333 194.773333,92.6933333 L4.69333333,92.6933333 C2.10127691,92.6933333 9.19921956e-15,90.5920564 0,88 L0,4.69333333 C5.70743059e-16,2.10127691 2.10127691,2.25250988e-15 4.69333333,0 Z" id="path-18"></path>
+        <filter x="-5.5%" y="-10.8%" width="111.0%" height="123.7%" filterUnits="objectBoundingBox" id="filter-19">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.69333333,0 L194.773333,0 C197.36539,-4.76153041e-16 199.466667,2.10127691 199.466667,4.69333333 L199.466667,88 C199.466667,90.5920564 197.36539,92.6933333 194.773333,92.6933333 L4.69333333,92.6933333 C2.10127691,92.6933333 9.19921956e-15,90.5920564 0,88 L0,4.69333333 C5.70743059e-16,2.10127691 2.10127691,2.25250988e-15 4.69333333,0 Z" id="path-20"></path>
+        <filter x="-5.5%" y="-10.8%" width="111.0%" height="123.7%" filterUnits="objectBoundingBox" id="filter-21">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M336.16,73.3333333 L420.64,73.3333333 C423.232056,73.3333333 425.333333,75.4346102 425.333333,78.0266667 L425.333333,132 C425.333333,134.592056 423.232056,136.693333 420.64,136.693333 L336.16,136.693333 C333.567944,136.693333 331.466667,134.592056 331.466667,132 L331.466667,78.0266667 C331.466667,75.4346102 333.567944,73.3333333 336.16,73.3333333 Z" id="path-22"></path>
+        <filter x="-11.7%" y="-15.8%" width="123.4%" height="134.7%" filterUnits="objectBoundingBox" id="filter-23">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-24" x="0" y="0" width="7.04" height="7.04"></rect>
+        <path d="M4.69333333,0 L194.773333,0 C197.36539,-4.76153041e-16 199.466667,2.10127691 199.466667,4.69333333 L199.466667,88 C199.466667,90.5920564 197.36539,92.6933333 194.773333,92.6933333 L4.69333333,92.6933333 C2.10127691,92.6933333 9.19921956e-15,90.5920564 0,88 L0,4.69333333 C5.70743059e-16,2.10127691 2.10127691,2.25250988e-15 4.69333333,0 Z" id="path-26"></path>
+        <filter x="-5.5%" y="-10.8%" width="111.0%" height="123.7%" filterUnits="objectBoundingBox" id="filter-27">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.69333333,0 L194.773333,0 C197.36539,-4.76153041e-16 199.466667,2.10127691 199.466667,4.69333333 L199.466667,88 C199.466667,90.5920564 197.36539,92.6933333 194.773333,92.6933333 L4.69333333,92.6933333 C2.10127691,92.6933333 9.19921956e-15,90.5920564 0,88 L0,4.69333333 C5.70743059e-16,2.10127691 2.10127691,2.25250988e-15 4.69333333,0 Z" id="path-28"></path>
+        <filter x="-5.5%" y="-10.8%" width="111.0%" height="123.7%" filterUnits="objectBoundingBox" id="filter-29">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152295276   0 0 0 0 0.154396605   0 0 0 0 0.157835145  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="pic_thumbnail_zhugeio" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="url(#linearGradient-1)" x="0" y="0" width="500" height="400"></rect>
+        <g id="编组-2" transform="translate(30.000000, 30.000000)">
+            <text id="Data-Visualization" font-family="PingFangSC-Semibold, PingFang SC" font-size="23.4666667" font-weight="500" fill="#FFFFFF">
+                <tspan x="58.7018667" y="26.1733333">Data Visualization</tspan>
+            </text>
+            <g id="编组">
+                <g id="椭圆形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+                <image id="logo---single" x="4.4" y="9.97333333" width="26.4" height="15.2533333" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMYAAABzCAYAAADDnH2bAAAABGdBTUEAALGN5fIAKQAAKatJREFUeAHtXQl8FEXWr+o5chEgB0IAAQ/EFfEASTg1CYRDhdVAwCuAiqB+n5+66rrursqq63q7HuuBuyIgSAhhVZQjQBJuElRUZFlRkSMkgczkJMdcXd+/kswwV/f0TDrJhEz9fsl013v16tXrenW8elVFSRcJY1JnXyRVVKYTK/dsyq6Qgp+L8YwxOnbCLRdKl81i3Z239pg0/NyGaNUo3rRpCyIN4ZVsT3Z2gxr01KaxYMEC3f7Dhp+l6Apm8ixgT0nBz8X46dMXRlhEi6RMKKUnUe7+7V32pOSZzzLKhkjlq9PqHtq1eVWJFFyt+IAVIyklYwQj4oOEkbSyWkMfUkvIyJQZx8HYOipo3yzamnVYLSZDdLqOBETKUgljY6RKLFILb8DaXDEEKQak4hctWiSMTJ7xskjEInTHmYywPg5cxgagUP/DRMv3iSkzHnbEhx5CEuhkEvBbMb7cduBdQtijUADptIyEQWleS0pJf6KTySPEbkgCTRKQrtxeBJSYmnEzFGKBF5DXKEbos2MmzB7pFRiKDEkgiCXgl2IQZnvan7Kg19Bggvdnf9KEcEMSCAYJKFaMsSkZQxgjV/rLNGXkem618jddCD8kgY6UgGLFsFB2RSCMMkK0pxqNlwWSNpQmJIGOkoBixaCUhQXMpEgjAk4bShiSQAdIQLFiiCItDZQ/PWV8sSgUQhLoNBJQvMAnhIftExsbTFjQ86/noKRkx+Y1v2IltdMIRQ1GR6WkjxUJ/aMPWj8W5ef8zgdOCNwBElCsGIUbVtRg0W4VFvTm+sMnJt+LoRSYanSdMHb6XdGWmqqPIatB0qWmFo2gfdIbPCMjQ3OsXMz3BlMrruyMUSNHCx+sV2LyjO1yOG0CY2yYXGWxWcjH4Ku+TfJuIarT6W5RrBg8TZg+4gmTqWE6PniMEsYooT/3jo57WQnuuYRjqa1+Cx93kFyZ0Fb8eW9e1jdSOJDxeCmYKvFytY9nwJgeKG3LQwAFwRLAiACS+ZWEMku44jkGp7xj08elGoHeiAp/RkFOpToq3Lhu3eI21W4FfLQrSlLKjBn4eHPlMsWoMq8wL6fLNRhyMgk2mF+KwZnfk7dmN9WR4VCOfInCYMGbrg0PixyxKz/7RwmcczJ6bNotfdHSvy9XOAwrKzRUM6erDS/lZBKMsFbNiBNTZmPBzzoJ/S72OlARXe9/tXphPfY2SLozByoE7rxYUlIiOy6Wol1aSnTwAK6TgqMFf/6qwfGLpOBS8YsXL7bYYeglKOZgm/CeZo/z9ksFTXpRXva/vcGc45LnzQt3flf72VRaF2k12YxSdKG4JyMHRl8sBW+r+PqjNfmoR6Ok6FOquypyYESbNrj5S5aYWqUYUsy3RTwmXH9Ca/xcW9AOiCal4r78HIeiJqXOfEgUxdflaEEB3y/KX3uvHE57wbg3gnxjQU/CYtbu+zGwdWEX5jeSbudaPf3Nntyc/7a1nPweSrU1Q52R/phJsy8XmfiCHO9ogQ717hYfMs3KCSmIYCHFaOXHmDr1gTCL2bpSdn2HEhOhulu7miGilaLt0OR+mWs7lFNCijGp3x0IDxR7R2THraDNKD3uJ22QJMRgKnkRc6xhcmkFRh8vLMj6Tg4nBAsuCXQaxSgqyFkK0fE/v0PLnm+zVEKM/ZdgPO33nu+REzKmEJvt/6To8njQ/rIwP+cNOZwQLPgkoE2aent/YrG2+yTLmyj0OvGXHRuyy73Bgi1u/NSMXqYGcQm6DTkDRmlYuObOYOM9xI9vCWhJY8MC2Fm9uib4Tq4uhlkU7gLFJepSbRtqUIoPYSU7u9/dMxus5wiZnUXRPdnv2jGdZigVTJ8pMXXmA0wUb5TjSSD0xcL8NVvlcDoSlpBALGV1VHKIh01p1R3BH9bBpolWrU4q7/49rAYpmJrxIcXwU5qjJ2YMs1nFl+SSYWy1JyJ52JOkIEcOrUNhLYuTDzkzwRcpZ82a5bBUDoIzozO8nZ6hkFbZrLiTJUcYOnQow8KvKIscIDCkGH4IbnRGRoTNIH6CIZTcqnSVViC3FixaJP91/ci3LVCTp90aX19nnklENgHTpCsxU+qNlfto5CU3Z2oLVgKmebTge36WWR18t0/jm/yMoetXgiBuHhCr2Z6dnW0LmDAShhTDD+nZysXX8AGGyiURKJ2/Oy/nmByO2jBUaN6DdZOii5P9Vu3LW7udw7lyWw3syfpa88NnFRwmhCbjsxSFII5nLAqsXwAOLyBMTBNt5IljBvEkZPLaVYPj3nJ22/GnFFpBr/k7+s5l/iRqK1whLPpUW9FuLd1RKTPTbUyUdeeAf9G7MM22+/gJ84F5qNm9JMtI6QHAtidNuLW3rdz8BXCv6ax6IFlGJwCGhP3w+iqOZb1z9OSMmwPx3dO2HGbcpQ40dpKhosdxEzMGmK3iP+WQ4W38bVx434flcDoSxlfojQ0nP4VCXOPCB6XV6C1Ksd5SBx8lh1OkC04QvTBKBMhag8rfF2wl+GDtcpvZtjMpbcb4ws05P/nAdQGHhlIu4vB84RO9owZxJVrZGE9oc0zT/hSNdvaGDW+ZpHA6Ot7YUPIolGIUJhBWrPJ/ht4ti4XTHfvWZ5d1NG+B5s/X4MTGxnswx3gMw0KvB26gN+2NEmfjOyZi3iG5yOvOQ0gx3CXi9n7MYHsGLepYt2jXV8oWBvMh1lSk3QkRH4dS7NHo6V3t4Z3qKqC2ecN262JQfnr0xBmf2qx0K5TDa+MF5bjyeLl4D3D/oZQTh2lOaYKuhDdq4oyJWKX7g2yZKV0MV3L0KMEbGBXTUY6dcRH9Us4VpXCW9p4tOfupht7vHOf+DAOErOuOO35IMdwl0vLOJ6qilSzHuFtSRnxeETUw+kEJEkETTRkdENUz+rZgHuq1Vlh7t2RnoUc8KkUHvcYlMO3KWhSd00p+dGekrvbMdwuKNjM/5UPS5QNj9Bps8Z1V8NFHjZ1APm8XfPpRVSfgM2AW8T0whaKwuMkESiQ3QLmnCimGu0Tw/uW2H/6EyfZELyBHFFw+7vTX0uFI3M4P6PO6iNWR/iAnWqjOYDm4MyykGM7SwPOoiTOTKWFPu0W7vKJ1em1v/pq1LpGhlw6XAOYZRjkmMAKIl4M7w0KK4SSN5nkF+wQ2ckkfIYxjd0ZeN+xxp2ShxyCRAOYRsm4gmBMqPkVTyxd+tFqTZEVoizKPGNG3sa2cvwLlt/n0PzP3g5KcV4B2KYvUZAS7H1SgMujs6bBTk59UIxcUL2BqDQ0lOMqFTZWjpjZs0/YKvi7gdZtq86KNaYiaeX77k1F2vUZk9ILjhiY/qBS5fOEH9Z7YwIaOTJmp2LohR4/Dbrju8vxgayR88dxZ4Wj0FHviylaYjhAAVjLTYSJ9Q828fbQiyIrd4aup4fyIjP0FuGqyRjYdPBgJgkF5DbSqBe1kxIJOMTqZ/DoFu1QkT+GmXb8WuDpFwdyYxEhK0sPYDdXna0gxfIqo8yO0zJvk5k6dv5AogZp9uRamx1Ugub89JYODoYul8gNDX2FY84IUXM14kTC+PfVyWZqUbMPxN3tkcVoBHBYTY20z4q3gq6snhfWxa4YxkzLPs5rrj6I19eqV2SQVSn4RwiOG87tBgllKGCadRuMmvR9DoPcXbV3zXjCXQQ3ekibO/C2zMRiTJAKOSdqXv/YuCahLdJdcx+B7my3m+n/KKwU1C0QzO9iVwuVryrxwl4lz/k/kbiHqhC6pGKNSZ3Dr0jQ5EWLjziOF+dlfy+GEYMElAWxi0stxhAU+xYrT5RQjMTXjZsxh/iwvQLKmKC/nbTmcECz4JICLKPiuPsmAEYJih88upRj86BsiissgOcm5FXqKw7ruPe+SlG4IELQSQHdwqTxz1CAPPwvtMoqROGFOHM6D+gythrStm5J6rU43Y9fnH9aeFVHoqRNJYKIcrwLFETsKQ5dQDH6oMxPP5EApLpCTiyDQhbtzs2Rdl+XSBysMR737aEmDlXPlfGGInIrve7FcCirovpKDO8O6hGJ8e9jwDlZ/rnMuuMczJe8Ubs352CP+HIiAK8ucMamzLzoHiuK1CPysLAyRX/UKbImERe7Y3i1Zh+RwnGHnvGLgCjB+OsZ850J7PFO66+rB8S7HVXrgdOIIVIrjFmb9EmcsybaonbGI4264LcZaLvLRwFWy/DO2RBbuBtQmJqffjanolW7xHfKKXXEr9ubnFKqVebMFSnxRlh4lJSRCmBnoiXWytIMECDNmPjwgH7SZxAOJKekfUI1m9XkRMd843/DE3e6Liby5MxiKE10dLtTSxjBiYZfiercp5vrGBeCrtzxvtFwfFfamPI4rVIvXG7DB42bX6I55YwLlrimqKEbSxNmjmNW6AusV0r0ixSKeRjujcH1WWceUuN1yxS2ndANa1akYUj7ArLYHcDElgZIY0ZvyG0rDjpbbYsGNpLWu3Tj1kVElzoXzK+ASUQ0ld+/8cmWlP+mkK40/VIIMd2xKxhDRalmHiiDt7gGesbHl/sItWXuDjP02YSdCr1uIErtcyoMGMQ6K0rfptxMohd+C4Q2fQObuzctZ52/ac04x+EYnCxE3QRDy+3sF+kZRwdp/+Suwzoq/PXfVCaoXktAldImGAPOq9fhWwwM1qPCh1DkT+J5t1tiwFS3gQB+F2jwoTnhknw+kzgLGouRuDIl6SvEL7+ASDivKzf4VP6NHp2RcZyPsegwzR+C9F9KGQWHO4LkOvSxeO0eAg4cG86dIeIGJ6P5rwPgxgQhf0TDt+r0bVx1tTSloYuqM54hIrm0NEbXSYh3hb3vz1mxQQi9pQkYaPmKYHRei0cCN/EV81yH2OK+//BBjgiM3KRsJwc7ECX1ej3V0Tgs8G0bfZlSZelTCCjyXIe4I5kSHImPp/oLsbF6pQuEckkDQT7akZO3T1VoqodrxmNxhrlKES0vWheu0y/mQRe0sQvTaXwIhxVBT5lxJCMnSUu2Tu/OyflGTtL+0pk1bEHn6jPEOn+kEYWfh1uz/+MTrYgjn1Byjw78dzrnFOPdWK7PelJQy81FcTvlOR/F06ozxFew7uc9H/id6UDLMB845Ax6Uz8IrSoxXaEShFxNs9aJO/13NrB5eT2nsEj0G/PDLMDd4l1FhJ26QOhIebTMkDx1ar/TYGr6xiV/aWN6ojWloEC/GpffDMb/BCeIkRfbQZyq8VJS/5vH2rlm4ZmsyeN4oly+sNjZcwZKCnX075PD8hTGWoancUtktpm9MAx2q/D4Kf/PxBz/+k/K+FjP5C9Lchm/GT2VpDnzzFmGbNEx4pmJunMsO43NfMTDZFrRkZFucM4t7Ga62Wtn7kPJIu6zdf3EB0L1FBWs4TrsE7iJhrjcdgGL0k8sQDcXjuL7gJTkcf2ClueMy0Ejch4o3CmsjEVA8K6xe32J5ZEmfuMs+oNcsVnzYmT/5+sLtsdyYhlX/1WjIJK124BFWLfJ0zZz45+z0OqVicJ8fuDd8j8LKLuDxQmqoMKMtz5nlY/lTtcaN4GW8Xaguv3Bl12v1g3dtXtVkMnWBtcELXHzWonLKejKg0q4uys+ZrUb25TunR1vrKlZDEadI0qP0O6rX3pSQUnBUEqcNAN1XGBJxm9I2kA5XQh53mD1aNadXkzNip1vgGz1pxqVWs22bEqXAyYEftKVScGFzfyMaEX4bhmved4cxEmmxWh5V8mFaiwPT+//6Ugq0jvt7d4u7s7V58fR82GQ5U7FeVimaEa8kJkt+zZYJcWrkq4RGcj7T4rrwpcBVpBScJrqN5+NWGi7lz52qxxiZlnEVtdo2YT3hPM68XMBQ4XBkvGZEe60xJKXMWAz3bn6dlUcAL6evv+6KBKVzGg8CCiJGpc4ebmM4iYcxmX3PtDxMK1yzc0v2cU4SPW+saBZTUCEuw1j7UsjV55qOMytzU2ovSE+qa6pIzvFSz1//EnbymeyY76XgrYmHjLnhoxvWl6JAx1p1ydiIsrGZfh+lCjLvV8+Nu7fTWKVGpqZfS6zi5/h4PXwKkJIijV4ztb2UgvODQ1G34MerYnBF3rDjAD+/qk0qRdNl9mfMa2WVAqZktIO3avtHnU5MnTkfrfw8m1kchV8c6I3+lxfCjwAfJJI8tMGPFIRcdaG5X2w3W7+KM+oPVCDjpmAvR30fxVdhuJQBi+jTEXGv+hy6ZKPOy6jk9Nn4crn48L6VgmdJ6Z6Wa5rVYUABFVSU/8qh4Rxurhiqh+RFi7R1teZsVPCBcsQx1HsFY+hhdUdrjzNR/ACyHNusFHKppGGDellJbDfFZyQ3EdKgOb9ikOKLU6UzVwAx90hQgOUFhZGEHiuqYoK6x8CHoxiiPIVLD56GYgT1sE/QCvWiDZxKBEoF2RMsJJL5jK7fdgD7DFiyHCIExy1EN4oiu8wZr8lkS8iPaG3hY0ROod8AnrIwbIB5EDAnKsM+i3XlQMvX234I3382phVPECoUvDsawgvweyV6C0d9ZgI6wgBDGNXqHYQCpNFmybjZEZPJj5AB79r8CqbYflE9V1QOTNP1LM6eBXt9OwRqscmaI9FjOPy61GInKSX9CcxrfC3i8WGSFhWnRSloOXqOT7Cm81nvqJi9zpuV/OHr8z+N/61o818xUq9o+PSOxzY/509eSnDHTr8r2lpbnQF/uT+iwBdp6yuIKba/kqQuOGhE6u+/Nao8KBUjaUJ6CmzxS1BA2eGBc4nMPfoQ4xWTSd2Aq4lNHzGfWK3zN1kNjd2XGnJhsn25ck7sTmf89n7GmnjAPR5foEKbHx0eFn+8eBZtGtgnJs+YC6V4Xmk5+CIntmw9FTUgerkaF2oKNs1Bkc+s/AzYNHTQzySK0FtOdvkwed68lfXHat+OLP3p7rr+VyhK64KEbc6LMB9zUYzElNlXYkE00wXx7EtxYd6av599JWT85DsSTNbGERjyXI5tqWf3P4ikQRRYHepCjSjQI2FUPDxx3LCjvqwyTW7jovmvoo3dha5fcUWqvmQ8OTXqFsI0LsXhrMJUx6bbiDitx1Ljq7A2PObMf7s+wxXX3/x6LDPejWn9H8xmcjFPa240WnssM3zRP//97eToNy/zrkBJwJDpQ110j4fUPBbovCkFP5duHMfXkhTXPliOGhiLzFXCc6A4LUo/f3i3XnrDiJsy/R1SYXD2Ls/btSZR2yWiKD7ijSkIlx9X2aQY3OUAzw83mhvS0EU3TeDRhbkmQ2PSFIeBjAmQ9du+P52UPGM9POiXFW5dm++MDC0Pbzha+7Qomv4PZM4u2TsjOT2jhllxECsfXwo1FyaSsrF3OEG9PGKugg/4KCqVtXpO/BNeMIIuqsdSw4e47+FOF8YY00LKN50cP++3/etraMSpn1zAHi/cEkXJvThV8QMPmAoRTIOLdGwkRykpzGUiCK17Gg3p46hPbhVGKRVleL+mP7URSsErhj8N0oaqO+L/zXPwyyqFDfN6XCL+Pgq2EX+T7UqhhFVusoSizMO4NG9kSnpB4qSMC+zp6o7VvoH+YRpKUNsyIbSDmn8prcNQ4Fu0OCsEDc3UR4WfBwUy2sK6kdOjb3PFlXkDD7/vsaz8GhmUoADBjWE+FNlVKZw4EzV6ejLlHj5kdIr1eETbQe7Y10ZKwXOjInbQEP/mcPgGj5Xljl/JDmbIrLd4lMWvCO4GYtPol3AWlSYE4tdUq7vdju/SY6CyyxLCPXVvQxnugTAaoO4FUKvtGEKdgiuWER1E8yRXEHXExuJQwZOAMxs0u9szc/zijCdmthXB12jSni05+/fl5yy0wzDcEnJ3/xLPrI06qg23CDqbZccXK6rcWxjsxyDVl4z1VTnsZFt++XiGPoQXH12MW7L2fmWiz17NFtGD1AweQ2IObvXKHVb9FxXm5XziFahCJIZRc1AXPoQCKzD/0BMY0p5vzxZ14pay4tKEyvzkm2JSCqrs8Wr8dv/YMBJnTGFN5+yJJ2GVxcQaGUNsYXztzzVQtNT6M8Z/Cz0uyzx1O3WctOCiGK5JXN+g6VdAba6Gaewf+siwJxWcuvAvHIv5BLXVZUN4Ka7Umt7ibVaSBV+jq5wtIy3zkNPO+JSudH51PNf1dbE+OuLlHtBrpcnBOxoWs6xigI3ZLlTCR32fSyQVA01AvhIageCU5I5dCKV4F3XibEMqoEdnbDPoXYPpITwT+FZTWgStWXLe5IQfSnNL3+WNqj0/KMd1jSbrzorN466PTdt53B7fmt/45eVDzCKDiwpxHMOqrz1dPHDdizBPMVI78GrS0OsCIkZEE2oxkbCKYhJ99BuibawpQOPsUArOg4ti8FYZQYI3pkPvsLAwP2exBIJHdNHWZcbkm+al11fVHoJy9HFHQNzgsjrjXMQ3TXjc4b7erdEBuN5gSNd3HYssmUbrfdHvELiAlf3mvtdn9qLe53TMJw1/EUpyx/0O3qqvutWSHbrI2Bt6jfu8VobegpJN445DOZ614+D7DzWJZM+pjeOu7z1l53f2+EB+Yz829reIjC8CO4xAqM8HEgoWP0tt5tWcZvcjRU1/7vSBB8VxDYrnGHyM749S2LMp+PQjDIOY9ORPJLPsuH7/iv6bC9Hjsbqqygf46qbf+bVHAj05znlUkpUOZ0O1Z0DF/jNXCpc8Kd2cEB87xYdSNCXpO3nnc5j3zMOfxU4D7XBf9OI7Tm0aG3BP3n11daxVZPChYwPsdJHHrzoaMTm8vmSHPU7ylzGPuqBYMdBpKmzHPLOnGrrdM7YlhrJLJGE+AGGVJ31geAFzC5Voe4FYLcUw4b4Xu9Lot6OZF6qqRPGezFZndrSovohGH/vGF4pqcCjF35xbe04YLe26hAujp9Fr1inufRMm71qKSncDxmCO3gWtQDSauC9LN43lowe/ApcZabB8Cd7OjqvhtMmofpIhM6p03/rsMjTqZ2SJUuqx+KpcMWQpywNhVS2RwgDTvaVgvuK7YXwYaMDHiGREXGi1iD/ANLql5/Ly6YtaTM+B0mxNup4rylPqKg0HiKB5AB/57Nhdhqglih8e2LYBrTBFhX0TPP3BOSd8t9XYgDSDDt7ArfF+hd6Td23GsHw8WnVHvUDPocPfR6W5Y59USmzEV0wHmcFczEbZ00BZawSmnVKT2eNnexx+y5yePR7RP3s0+i5zDI8UKkXoqNgoJT0IHvOzwAJvMSvQa5hi+ikkQNGFM507Msa6E5hIJry+3PBrz6XGt0l34cOqm2NUtZa452l/j/+sPNpSTV+CcYRPaF0Vgu+Cw9qFHdf99xRM1YLVTLr/vMcdpMo7Y4uE0tzxizFvvduZIJj8qM/khPmULvaoUM54cs98TmHcdO0oMxH50aGOXhvf4ZmSjWMHJITp7qMpBdaSzdf+BlamdFTeIeii+Nj5INPqViekbj3ec7nxIyjTFKd8TFTDbqq6PcbdF0v2W+KYF48er116DCfGVX3kpraEgn8SweRiUJDIg1o0REgXBO1VaFU+BFKjOyKEfAHcHF5ltdZiLAa+E7fM8Bt3HDXfuy83TrFU0YNoHO51Vgq0pHWCIDyk10UMhH35Gbxvw99+tNJrcEzPemceSmE1rb1A/aUZlp+sLc3dshx8uSoFpe/2mbzzLkqzA1YKO/9xk7efCA/TjkO5CuxxLb/zT5ktGFqN+wT76/8DHp6D8mRiwXMu/l6CRenIJ188/I2emc4uYsFlAybq26pu75XvRov7UEi1y02o6L2s7mkkWyN3xGB9D6sqIQM3vEJKrr0LTmPne2UTgj+Jjf93VmbGbm5BuLvf0prfn6HmBWgNsU/5rI2dw6EgMHiz+9C93AcF2Sww4c0H58SsX9TcYnnNw59IPvFnovV1tIRzMaRzCVDaPBgL51dl9vy1BfC0CwJesEi5GDw2mz7hAFCKslP0HN1OqLPdgy++lRaXroIgbnbOG84GryRM3gG3GteOzRnH32e+joH8JpeeKP0IMr/Vnh73JE7Cu/3V5RexQrJu31X/iHme3Fv5JNzINOCI3lc1J26tC2LLC3obkPMvdOoew15UfWUJGfT586Rv3ntN5jjdmYpyVLADENa/UW8WhtO4IdWZcXalaEp2cm53I9xD/nb1gLgL8cFnQbI77fScf9Gap9mIbd3rywyHey4zPhSzukJyT4io1ZO684eRysvTSOXQiaSu32U4a911pNhzueEmZrX8B59qrnM+4LeG81qVGTexeo5DKZxRHM8PZ8bf263k0Al7BM+jJGUhqUtofQfHdmdEYPHtMw+lEMgzzUphz1W9X36aCGjfju/1kj9Ux+m/JfdE5aATpX+qnhP3gT9pfeF2+h7DUUAMTqOP7W/6Q++wEq4QfIW7KVTbH7z8FqQ0daPZAGX3XFp5tUht8Ndit+AdDohnA1qci9CNv46d3c/2XGZYqqXsLUNmrx85RsZqpskzHF4g6iI8VuI1DTWk1zefkYjyI5Fo6VdhT8Tss1QdTxs0Al1QcUd8Mc10xEk+8J4rcULGNyevu+d8vmjFA3egLJl4P+m/6Q0Scdp53ilJxgNwOj+5W1lNKT8lPtkZSAXh8YRJO/yqtM7plTyjYeCN+uNlm8dVwkX/efSIirqlhVE5phf6FryuCFkJIy0450SP4Ud5ZVGr5sbsxxEqd3bThZ2PD/XnpiGYWwp8sG5w9/4fM6OHMMzaGLO04sbcBsNKWIj+6M13yRbRHU6OmeTo9KceQVoXpQD9Cngbza2Z2+v6ijviit2ykn/FGg6fX0UV/+DA4z1W8aQHSEP8QEec0ge4Z/S0ma2bnZUC8xps26D/29ZK4cwjlKJUqVLwdOHUFHa6vnSsMw01nkOK4UWKJbd1N2CY9VcMswZhc/wtsIbs9kDj6yFwpOTDLDR1Phcp4aLhYg3jwzx9RPjQqsz4ZR60FUZQ0Ur6YfgYWdrUcTWlEnXh5OSkB4nxqusvVEiG1OQnxzeYLHkoz1mzZ5NzNL07YdLOfyilowoeEy7ylw42Tiouq1La585QSmmJ/cBrGWZlIUlWjxXlI5iN8mEWb/U9FoQUk8XiE+Y0D2DO0+SmoDidBCLFxsF+W94hJ6Y8SBp7NdcP7ixnGDb1dfgO7bUP94z5yf2tVttQ9AHYJxD2Q69Jm5vWEMq3j0+oq7fy+ZfDZIre0grFzewzeccqiWzbLBrsmSTm3JJ5gl+zJDBAgBBgui6XrPr2Xl9jmDU3goYPgFHkKVhmHItT/ghDI2jmqaUU9nwFayPpn/smCTcet0eh/mtjLCLd+uHnT9yIBbptJpPlhM0mbrSJtk1WVl+MlexcQ97oCdYGcTuGTw6lQLlMGD7N7Ail4MyjQn7nKITCBw0OdFOIqhgtpBiKRdWMeGpO9OmauXHPDh4aNwjzwzV+JocxSv7oTH/p2fE15gZy/qa/E26hs4fksKJ+E/W7+JFD19rj+G/TGB7WNouZ5uL5YgcMO+w0gjC9T9qOzxxx7fzQu39CLnqrcqXZAvfgeWnb3Rf0lCaXxAsphqRo5AFfX0Mt6MIPyGN5gSq0tnhJ6RqFZt41Aq0tFjoHQDl0NadIX005eaXHq3CftkkabMCK4/sDCb5Lmim9J23Pdafbnu8tB0E/rjRPgbKHleL6g+cQjD+JQrjNEoDV5r/+ygKrs36n8ZaH1GqupqGanL/xdbIwKrsuSuLUUHd6UPAG/KX1nbx9uzusI94TpuxcAoPHC3J5c4sZZPkg97uSwwsUFlKMQCWHdEIY3YQPpMQfpSUXWnJl/xhVHJtQLyTdHOBZR6br8uU9Sp3KjeHUCbh5FDpFdfgjXNSfEDTCTZDvWXu0XYqUFmGtKhU840yttgkhq1Qr5Fo5K7Ya/k44rUNcpIQMWuVFLZYuJeiyOLAtHYengyROpNYa7zHWksKmvs8ClkralvEtc53PyreMuwQm2SHoIkSi1Rxsj1PTQ4rRyi87vH/sX785YbwaM9rfypGKPP3z12WPjVbPbYHi7gmZmm+2EZNO4/vElRaea+R472hYr4k7D4MH/tduITSUaqWoeQ8w/Py4mdr66le52dQ9aMz1pHdhFjl//auqWno0usgdMK1a3POzvx8p0yoe4mHi7bmAaSfURX9DPYYKH54rx5jU9LdMmvBH6voNJfxURL5wHAbTadTJQzhgxow6rG4btDt3+WkcZcRPw3BxM7EXZ/XuqJgnM2S3IdhRiUYg7bu67cg5eB9CiqHitxEsjTh1gp9L1z5BT4SnzVS8EcO4KPccv/olTFt4OKw46RKTx0Z/F1wq/P28tB07XeJCL/4duBaSVyskQP3eEuAzs1352T/COrUAk3qvm4Ze+LRn/7wfIo5gqOQxS0cauH0IzyZM2v47nxmd4wi4g9pjthbqMVT66Faqg/+U5JAfuXjuElMja1wwuTJpQkY5EW0fw+x6njNNfojKG190vzBrVxSbOrzhxMV9LFbc42EuMWiN6/dH/XSkTBNDXpj5Jg6Idk7WqZ8jewlPeLkwKEGuUGg4PCaHIcWQk5g/MFEcLIeOe7BOy8FbA8MF9ptHZ2QMshnFu6Ect4DWSAyv9HaaZZUaumRrN/ftjWOkdsjZ03XGX3N1+LPg27GGwy8PLTtjvNCzT3AqHWMVTm9Nj0GhGMm4Fahg0SKPfbfuzCp9h7VboxRXNTwmOm/K9yCrEbT+u494UJGO2JOd3QDo2/yPH5JtKq4bbBVtMRqm6QkFCIrvLM29epAemp7VztRO1RsnoZGQtXyg0TrmnIY/B4fAvv4RH4+od3oYZRnJGRneulT38qvyzq9DwMnvmVKtElZvT/WLFQM/68dPLluOwm9TRfSTpQ5Dx8anO31lTrWa/7jjyGqSO3Kg7yLTxsmm1YSp1ls050Pj6w3iO7J5qgTEECbCZGpYgVZJci84TLXvZWe3/lQNlVjuMmQSUzNS0VhNlyswjBA1k8cNPeiO0y6KYROtw9wztr9j4lPLj/G0v6vzy7ZhN1om7vF4hw/T1KHpSWXUxNm/sRpsBXB0TfGEtsRQeqSnNuJlSXgI0CYSGJt2S18YJP7lizjMURtaDhJ3QVWsGCBw6ejUjESX1ApfsAeBTwi9B0qxgqtuAK/H0BJgrwG7r67g+/1oOW5WS0Ga7giZkDElMSX9Y9FmPYAWSVImGEIZtXCEy81drngVWl1JdE1quL/8YovVnI96MMiXBKAAy7zhuLSmqEhowL0HnOHAcGXXBtyiugCHO+NYRGVhZPLM22FGT5PEFui7krBWALDQ/BgODrkOFfdynFW7FrebVsAsuRtnTxyC0pxGWWHM9D0p5Tc34UCueKBjOZteetQgDuMWHwgdofm/NzYhyENU0MzcsyXbY/zqDT8U13oJ8GGtzSDeZzXbnsWnifRNkR7Ym7dmA+qDB6qLYnhAnSMo4Tvuq9D6r0lMTt8Lf/m10Lbt2ChSRrv1rIhlWsciUwW1aiwN1UNg1p+LPbz3S9UfMJRdtHXNF87ZqPVcuDXne1z0ngl9/ripIjMWC9pYJSY3QimUZwNcnMbdgm//lU6OMlUA/bXIQdGvqnEJpHROIQiXwNSpD4RVmE+Owe6MG6AUd+Lb8u+sJOA4LvYgvpfXj+qiGBxJrtLoNWQBvDb3oK6MQmUbxTXBxsnWVEmfmus1W6ShNCtyYPQ8PLVZKMpbkz1mwuyjuGmY+wKNbLOMmq5CYwXYaJ3du1tctvNFOG2WZxckjGGs5pgRk2nUPTR4F2HB+mJjQ8kQVDGcAeaxuC8rIYwCXkTjmS+F5KIYUArPPsUp5c4tOUeS0maMIxa2DMyMcgIpfkQGezE6eaEwf42q3qZSDOzemrUPsEQcUDYaZ91ORRFxKxQZgFbd3tVKqa6DJKSCToPxZW2+060SQ6hyRoTjOFf2JyjD9xHXDf1OzXUYR8ahBxcJHC23bUCEY1je/OF8fj4XGvwF3/BfGEL9Eb8eMHuEi2LYI+V+Czfn/AT46NEpGddhznEDnnEkC4tF5XGstOJOvqZJPeLqkXU5fo9iEeV7GqbL27tx1VE5+kph8Ai9m1GN92NsRPKrO52irdl855wqu+fcaZP8bI+oUIS6EsC6VLe6ctvE1lHFPn1CnyzKX/OinFLwPFxUht+zTZjlSq+ZC5qawi1Ze73CQpEhCbSDBGD4WYw57j2BZIXO4UutTveH3blZHltlvdFzUQxvCKG4kASCRQJ8qD8qNYOfTv97PA/0xRd6BVgE6ReCRvPR3i1Zh3zhO8NDiuEsjdBzp5BAs4LMGi7ibGvYlC4G03GYaZjQK1TCT+4EDkr4SR9G9+/YkF0eaIH+H7iDOehw68fjAAAAAElFTkSuQmCC"></image>
+            </g>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#FCFCFC" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+            </g>
+            <rect id="矩形" fill-opacity="0.2" fill="#FF5500" x="281.6" y="118.506667" width="5.86666667" height="9.38666667"></rect>
+            <text id="20%" font-family="PingFangSC-Regular, PingFang SC" font-size="8.21333333" font-weight="normal" line-spacing="8.21333333" fill="#29BD76">
+                <tspan x="248.16" y="125.746667">20%</tspan>
+            </text>
+            <g id="function-arrow_glyph_up" transform="translate(237.600000, 117.333333)">
+                <g>
+                    <mask id="mask-9" fill="white">
+                        <use xlink:href="#path-8"></use>
+                    </mask>
+                    <g id="bg"></g>
+                    <polygon id="arrow_glyph_up" fill="#29BD76" fill-rule="nonzero" mask="url(#mask-9)" transform="translate(3.520000, 3.520000) scale(1, -1) translate(-3.520000, -3.520000) " points="4.71170654 2.8612586 4.71170654 7.04 2.32831165 7.04 2.32831165 2.8612586 0 2.8612586 3.52000455 0 7.04 2.8612586"></polygon>
+                </g>
+            </g>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-10"></use>
+            </g>
+            <rect id="矩形" fill-opacity="0.2" fill="#1F93FF" x="70.4" y="114.986667" width="5.86666667" height="12.9066667"></rect>
+            <rect id="矩形" fill-opacity="0.2" fill="#1F93FF" x="82.1333333" y="118.506667" width="5.86666667" height="9.38666667"></rect>
+            <rect id="矩形" fill="#1F93FF" x="93.8666667" y="105.013333" width="5.86666667" height="22.88"></rect>
+            <text id="60%" font-family="PingFangSC-Regular, PingFang SC" font-size="8.21333333" font-weight="normal" line-spacing="8.21333333" fill="#F55858">
+                <tspan x="36.96" y="125.746667">60%</tspan>
+            </text>
+            <g id="function-arrow_glyph_up" transform="translate(26.400000, 117.333333)">
+                <g>
+                    <mask id="mask-13" fill="white">
+                        <use xlink:href="#path-12"></use>
+                    </mask>
+                    <g id="bg"></g>
+                    <polygon id="arrow_glyph_up" fill="#F55858" fill-rule="nonzero" mask="url(#mask-13)" points="4.71170654 2.8612586 4.71170654 7.04 2.32831165 7.04 2.32831165 2.8612586 0 2.8612586 3.52000455 0 7.04 2.8612586"></polygon>
+                </g>
+            </g>
+            <text id="206" font-family="PingFangSC-Semibold, PingFang SC" font-size="21.7066667" font-weight="500" fill="#354052">
+                <tspan x="23.4666667" y="102.2">206</tspan>
+            </text>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-15)" xlink:href="#path-14"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-14"></use>
+            </g>
+            <rect id="矩形" fill-opacity="0.2" fill="#FACC14" x="176" y="118.506667" width="5.86666667" height="9.38666667"></rect>
+            <rect id="矩形" fill-opacity="0.2" fill="#FACC14" x="187.733333" y="113.226667" width="5.86666667" height="14.6666667"></rect>
+            <rect id="矩形" fill="#FACC14" x="199.466667" y="117.333333" width="5.86666667" height="10.56"></rect>
+            <text id="20%" font-family="PingFangSC-Regular, PingFang SC" font-size="8.21333333" font-weight="normal" line-spacing="8.21333333" fill="#29BD76">
+                <tspan x="142.56" y="125.746667">20%</tspan>
+            </text>
+            <g id="function-arrow_glyph_up" transform="translate(132.000000, 117.333333)">
+                <g>
+                    <mask id="mask-17" fill="white">
+                        <use xlink:href="#path-16"></use>
+                    </mask>
+                    <g id="bg"></g>
+                    <polygon id="arrow_glyph_up" fill="#29BD76" fill-rule="nonzero" mask="url(#mask-17)" transform="translate(3.520000, 3.520000) scale(1, -1) translate(-3.520000, -3.520000) " points="4.71170654 2.8612586 4.71170654 7.04 2.32831165 7.04 2.32831165 2.8612586 0 2.8612586 3.52000455 0 7.04 2.8612586"></polygon>
+                </g>
+            </g>
+            <text id="326" font-family="PingFangSC-Semibold, PingFang SC" font-size="21.7066667" font-weight="500" fill="#354052">
+                <tspan x="234.666667" y="102.2">326</tspan>
+            </text>
+            <g id="编组-4" transform="translate(14.666667, 148.426667)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-19)" xlink:href="#path-18"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-18"></use>
+                </g>
+                <g id="编组-9" transform="translate(58.666667, 12.906667)">
+                    <rect id="funnel_1" fill="#1890FF" x="0" y="-1.04212935e-15" width="82.1333333" height="12.32" rx="0.273777778"></rect>
+                    <rect id="funnel_2-leave" fill="#EDF2F7" x="0" y="13.6888889" width="82.1333333" height="12.32" rx="0.273777778"></rect>
+                    <path d="M0.713453452,13.6888889 L81.4198799,13.6888889 C81.5710832,13.6888889 81.6936577,13.8114634 81.6936577,13.9626667 C81.6936577,14.040279 81.6607163,14.1142442 81.6030276,14.1661641 L68.5225337,25.9386085 C68.4722614,25.9838537 68.4070206,26.0088889 68.3393861,26.0088889 L13.7939473,26.0088889 C13.7263127,26.0088889 13.661072,25.9838537 13.6107996,25.9386085 L0.530305775,14.1661641 C0.417917253,14.0650144 0.408806364,13.8919075 0.509956033,13.779519 C0.561875928,13.7218302 0.635841147,13.6888889 0.713453452,13.6888889 Z" id="funnel_2" fill="#2FC25B"></path>
+                    <path d="M0.713453452,27.3777778 L81.4198799,27.3777778 C81.5710832,27.3777778 81.6936577,27.5003523 81.6936577,27.6515556 C81.6936577,27.7291679 81.6607163,27.8031331 81.6030276,27.855053 L68.5225337,39.6274974 C68.4722614,39.6727425 68.4070206,39.6977778 68.3393861,39.6977778 L13.7939473,39.6977778 C13.7263127,39.6977778 13.661072,39.6727425 13.6107996,39.6274974 L0.530305775,27.855053 C0.417917253,27.7539033 0.408806364,27.5807964 0.509956033,27.4684079 C0.561875928,27.4107191 0.635841147,27.3777778 0.713453452,27.3777778 Z" id="funnel_3-leave" fill="#EDF2F7"></path>
+                    <path d="M14.1541782,27.3777778 L67.9791552,27.3777778 C68.1303584,27.3777778 68.2529329,27.5003523 68.2529329,27.6515556 C68.2529329,27.6980825 68.2410755,27.7438419 68.21848,27.7845138 L61.6782331,39.5569582 C61.629947,39.6438732 61.5383353,39.6977778 61.4389082,39.6977778 L20.6944251,39.6977778 C20.594998,39.6977778 20.5033863,39.6438732 20.4551003,39.5569582 L13.9148533,27.7845138 C13.8414225,27.6523383 13.8890445,27.4856615 14.0212199,27.4122307 C14.0618918,27.3896352 14.1076512,27.3777778 14.1541782,27.3777778 Z" id="funnel_3" fill="#FACC14"></path>
+                    <path d="M14.1541782,41.0666667 L67.9791552,41.0666667 C68.1303584,41.0666667 68.2529329,41.1892412 68.2529329,41.3404444 C68.2529329,41.3869714 68.2410755,41.4327308 68.21848,41.4734027 L61.6782331,53.2458471 C61.629947,53.332762 61.5383353,53.3866667 61.4389082,53.3866667 L20.6944251,53.3866667 C20.594998,53.3866667 20.5033863,53.332762 20.4551003,53.2458471 L13.9148533,41.4734027 C13.8414225,41.3412272 13.8890445,41.1745504 14.0212199,41.1011196 C14.0618918,41.0785241 14.1076512,41.0666667 14.1541782,41.0666667 Z" id="funnel_4-leave" fill="#EDF2F7"></path>
+                    <path d="M21.2467868,41.0666667 L60.8865465,41.0666667 C61.0377498,41.0666667 61.1603243,41.1892412 61.1603243,41.3404444 C61.1603243,41.4180567 61.127383,41.492022 61.0696942,41.5439419 L47.9892004,53.3163863 C47.938928,53.3616314 47.8736873,53.3866667 47.8060527,53.3866667 L34.3272806,53.3866667 C34.2596461,53.3866667 34.1944053,53.3616314 34.1441329,53.3163863 L21.0636391,41.5439419 C20.9512506,41.4427922 20.9421397,41.2696853 21.0432894,41.1572968 C21.0952093,41.099608 21.1691745,41.0666667 21.2467868,41.0666667 Z" id="funnel_4" fill="#8543E0"></path>
+                    <text id="percent_1" font-family="PingFangSC-Medium, PingFang SC" font-size="2.464" font-weight="400" fill="#FFFFFF">
+                        <tspan x="37.9182222" y="7.51733333">100%</tspan>
+                    </text>
+                    <text id="percent_2" font-family="PingFangSC-Medium, PingFang SC" font-size="2.464" font-weight="400" fill="#FFFFFF">
+                        <tspan x="38.3288889" y="21.2062222">86%</tspan>
+                    </text>
+                    <text id="percent_3" font-family="PingFangSC-Medium, PingFang SC" font-size="2.464" font-weight="400" fill="#FFFFFF">
+                        <tspan x="38.3288889" y="34.8951111">74%</tspan>
+                    </text>
+                    <text id="percent_4" font-family="PingFangSC-Medium, PingFang SC" font-size="2.464" font-weight="400" fill="#FFFFFF">
+                        <tspan x="38.3288889" y="48.584">35%</tspan>
+                    </text>
+                    <path d="M21.2467868,54.7555556 L60.8865465,54.7555556 C61.0377498,54.7555556 61.1603243,54.87813 61.1603243,55.0293333 C61.1603243,55.1069456 61.127383,55.1809109 61.0696942,55.2328308 L47.9892004,67.0052752 C47.938928,67.0505203 47.8736873,67.0755556 47.8060527,67.0755556 L34.3272806,67.0755556 C34.2596461,67.0755556 34.1944053,67.0505203 34.1441329,67.0052752 L21.0636391,55.2328308 C20.9512506,55.1316811 20.9421397,54.9585742 21.0432894,54.8461857 C21.0952093,54.7884969 21.1691745,54.7555556 21.2467868,54.7555556 Z" id="funnel_5-leave" fill="#EDF2F7"></path>
+                    <path d="M34.6435011,54.7555556 L47.4898323,54.7555556 C47.6410356,54.7555556 47.7636101,54.87813 47.7636101,55.0293333 C47.7636101,55.0676399 47.7555713,55.1055201 47.7400136,55.140525 L42.507816,66.9129695 C42.4638743,67.0118383 42.3658286,67.0755556 42.2576347,67.0755556 L39.8756986,67.0755556 C39.7675047,67.0755556 39.669459,67.0118383 39.6255173,66.9129695 L34.3933198,55.140525 C34.3319103,55.0023537 34.3941381,54.8405615 34.5323094,54.779152 C34.5673143,54.7635943 34.6051945,54.7555556 34.6435011,54.7555556 Z" id="funnel_5" fill="#F04864"></path>
+                    <text id="percent_5" font-family="PingFangSC-Medium, PingFang SC" font-size="2.464" font-weight="400" fill="#FFFFFF">
+                        <tspan x="38.6026667" y="62.2728889">18%</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="编组-5" transform="translate(225.866667, 148.426667)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-21)" xlink:href="#path-20"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-20"></use>
+                </g>
+                <g id="chart_bar" transform="translate(52.800000, 11.733333)">
+                    <text id="01-01" font-family="PingFangSC-Regular, PingFang SC" font-size="3.26492754" font-weight="normal" line-spacing="3.67304348" fill="#333333">
+                        <tspan x="10.4892686" y="68.5981942">01-01</tspan>
+                    </text>
+                    <text id="01-02" font-family="PingFangSC-Regular, PingFang SC" font-size="3.26492754" font-weight="normal" line-spacing="3.67304348" fill="#333333">
+                        <tspan x="27.2914838" y="68.5981942">01-02</tspan>
+                    </text>
+                    <text id="01-03" font-family="PingFangSC-Regular, PingFang SC" font-size="3.26492754" font-weight="normal" line-spacing="3.67304348" fill="#333333">
+                        <tspan x="44.0882528" y="68.5981942">01-03</tspan>
+                    </text>
+                    <text id="01-04" font-family="PingFangSC-Regular, PingFang SC" font-size="3.26492754" font-weight="normal" line-spacing="3.67304348" fill="#333333">
+                        <tspan x="61.0890799" y="68.5981942">01-04</tspan>
+                    </text>
+                    <text id="01-05" font-family="PingFangSC-Regular, PingFang SC" font-size="3.26492754" font-weight="normal" line-spacing="3.67304348" fill="#333333">
+                        <tspan x="78.1965191" y="68.1630267">01-05</tspan>
+                    </text>
+                    <g id="Group-4">
+                        <line x1="7.14263845" y1="1.81755736" x2="93.6647045" y2="1.81755736" id="Line_1" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4081159519112629,1.22434779872065"></line>
+                        <line x1="7.14263845" y1="13.9346064" x2="93.6647045" y2="13.9346064" id="Line_2" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4081159519112629,1.22434779872065"></line>
+                        <line x1="7.14263845" y1="26.0516555" x2="93.6647045" y2="26.0516555" id="Line_3" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4081159519112629,1.22434779872065"></line>
+                        <line x1="7.14263845" y1="38.1687046" x2="93.6647045" y2="38.1687046" id="Line_4" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4081159519112629,1.22434779872065"></line>
+                        <line x1="7.14263845" y1="50.2857536" x2="93.6647045" y2="50.2857536" id="Line_5" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4081159519112629,1.22434779872065"></line>
+                        <line x1="7.14263845" y1="62.4028027" x2="93.6647045" y2="62.4028027" id="baseline" stroke="#DADADA" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                        <text id="1000" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="0.103138834" y="3">1000</tspan>
+                        </text>
+                        <text id="800" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="1.12565154" y="15.1170491">800</tspan>
+                        </text>
+                        <text id="600" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="1.12565154" y="27.2340981">600</tspan>
+                        </text>
+                        <text id="400" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="1.12565154" y="39.3511472">400</tspan>
+                        </text>
+                        <text id="200" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="1.12565154" y="51.4681963">200</tspan>
+                        </text>
+                        <text id="0" font-family="PingFangSC-Regular, PingFang SC" font-size="2.44869565" font-weight="normal" line-spacing="3.67304348" fill="#949494">
+                            <tspan x="3.98868713" y="63.5852454">0</tspan>
+                        </text>
+                    </g>
+                    <g id="bars" transform="translate(9.874914, 17.773779)" fill="#1F93FF" opacity="0.9">
+                        <polygon id="bar_1" transform="translate(4.944416, 22.994041) rotate(-270.000000) translate(-4.944416, -22.994041) " points="-16.8419765 18.0612254 26.7308075 18.0612254 26.7308075 27.9268568 -16.8419765 27.9268568"></polygon>
+                        <polygon id="bar_2" transform="translate(21.813598, 34.441289) rotate(-270.000000) translate(-21.813598, -34.441289) " points="11.5013723 29.508473 32.1258234 29.508473 32.1258234 39.3741044 11.5013723 39.3741044"></polygon>
+                        <polygon id="bar_3" transform="translate(38.682780, 35.890307) rotate(-270.000000) translate(-38.682780, -35.890307) " points="29.8229808 30.9574916 47.5425797 30.9574916 47.5425797 40.8231231 29.8229808 40.8231231"></polygon>
+                        <polygon id="bar_4" transform="translate(55.551963, 22.414434) rotate(-270.000000) translate(-55.551963, -22.414434) " points="33.1846002 17.4816179 77.919325 17.4816179 77.919325 27.3472493 33.1846002 27.3472493"></polygon>
+                        <polygon id="bar_5" transform="translate(72.421145, 31.688153) rotate(-270.000000) translate(-72.421145, -31.688153) " points="59.3493098 26.7553375 85.4929802 26.7553375 85.4929802 36.6209689 59.3493098 36.6209689"></polygon>
+                    </g>
+                </g>
+            </g>
+            <text id="68" font-family="PingFangSC-Semibold, PingFang SC" font-size="21.7066667" font-weight="500" fill="#354052">
+                <tspan x="129.066667" y="102.2">68</tspan>
+            </text>
+            <rect id="矩形" fill-opacity="0.2" fill="#FF5500" x="293.333333" y="109.12" width="5.86666667" height="18.7733333"></rect>
+            <rect id="矩形" fill="#FF5500" x="305.066667" y="111.466667" width="5.86666667" height="16.4266667"></rect>
+            <g id="矩形">
+                <use fill="black" fill-opacity="1" filter="url(#filter-23)" xlink:href="#path-22"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-22"></use>
+            </g>
+            <rect id="矩形" fill-opacity="0.2" fill="#8543E0" x="387.2" y="111.466667" width="5.86666667" height="16.4266667"></rect>
+            <rect id="矩形" fill-opacity="0.2" fill="#8543E0" x="398.933333" y="118.506667" width="5.86666667" height="9.38666667"></rect>
+            <rect id="矩形" fill="#8543E0" x="410.666667" y="106.773333" width="5.86666667" height="21.12"></rect>
+            <text id="60%" font-family="PingFangSC-Regular, PingFang SC" font-size="8.21333333" font-weight="normal" line-spacing="8.21333333" fill="#F55858">
+                <tspan x="353.76" y="125.746667">60%</tspan>
+            </text>
+            <g id="function-arrow_glyph_up" transform="translate(343.200000, 117.333333)">
+                <g>
+                    <mask id="mask-25" fill="white">
+                        <use xlink:href="#path-24"></use>
+                    </mask>
+                    <g id="bg"></g>
+                    <polygon id="arrow_glyph_up" fill="#F55858" fill-rule="nonzero" mask="url(#mask-25)" points="4.71170654 2.8612586 4.71170654 7.04 2.32831165 7.04 2.32831165 2.8612586 0 2.8612586 3.52000455 0 7.04 2.8612586"></polygon>
+                </g>
+            </g>
+            <text id="180" font-family="PingFangSC-Semibold, PingFang SC" font-size="21.7066667" font-weight="500" fill="#354052">
+                <tspan x="340.266667" y="102.2">180</tspan>
+            </text>
+            <g id="编组-4" transform="translate(14.666667, 252.853333)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-27)" xlink:href="#path-26"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-26"></use>
+                </g>
+                <g id="chart_line" transform="translate(41.456812, 11.146667)">
+                    <g id="Group-4">
+                        <line x1="10.7075129" y1="1.67161081" x2="112.795173" y2="1.67161081" id="Line" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4776031089865643,1.432809155920278"></line>
+                        <line x1="10.7075129" y1="15.9997035" x2="112.795173" y2="15.9997035" id="Line" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4776031089865643,1.432809155920278"></line>
+                        <line x1="10.7075129" y1="30.3277961" x2="112.795173" y2="30.3277961" id="Line" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4776031089865643,1.432809155920278"></line>
+                        <line x1="10.7075129" y1="44.6558887" x2="112.795173" y2="44.6558887" id="Line" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4776031089865643,1.432809155920278"></line>
+                        <line x1="10.7075129" y1="58.9839814" x2="112.795173" y2="58.9839814" id="Line" stroke="#DDDDDD" stroke-width="0.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="0.4776031089865643,1.432809155920278"></line>
+                        <text id="1000" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="0.692773618" y="3">1000</tspan>
+                        </text>
+                        <text id="800" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="1.34902472" y="17.3280926">800</tspan>
+                        </text>
+                        <text id="600" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="1.34902472" y="31.6561853">600</tspan>
+                        </text>
+                        <text id="400" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="1.34902472" y="45.9842779">400</tspan>
+                        </text>
+                        <text id="200" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="1.34902472" y="60.3123706">200</tspan>
+                        </text>
+                        <text id="0" font-family="PingFangSC-Regular, PingFang SC" font-size="2.86561853" font-weight="normal" line-spacing="4.29842779" fill="#949494">
+                            <tspan x="4.13098857" y="74.6404632">0</tspan>
+                        </text>
+                    </g>
+                    <g id="graph_1" transform="translate(19.453304, 12.178879)" stroke="#F04864" stroke-width="0.5">
+                        <polyline id="1" points="1.27639795 27.5313824 14.4922703 28.301112 41.1396005 7.83461798 54.4632656 18.918904 68.016649 10.0647557 80.8808774 23.2147536 93.8573817 1.13437696"></polyline>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="1.16860516" cy="27.522348" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="14.4922703" cy="28.2161887" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="28.0456537" cy="17.5772979" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="41.1396005" cy="8.32608848" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="54.6929839" cy="18.5024188" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="68.016649" cy="10.1763304" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="80.8808774" cy="22.6654631" rx="1.14859182" ry="1.15640118"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="93.7451058" cy="1.15640118" rx="1.14859182" ry="1.15640118"></ellipse>
+                    </g>
+                    <g id="graph_2" transform="translate(15.871281, 20.775734)" stroke="#1890FF" stroke-width="0.5">
+                        <polyline id="2" points="1.14749676 24.7792532 14.4584591 28.0501546 27.9989208 26.4001638 41.0803838 21.7747202 67.9318079 26.4001638 80.7819786 0.621128288 93.6357352 18.9892722"></polyline>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="1.14749676" cy="24.7119806" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="14.4584591" cy="27.9701548" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="27.9989208" cy="26.108341" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="41.3098832" cy="21.6865332" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="54.3913462" cy="24.0138004" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="67.9318079" cy="26.108341" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="80.7837716" cy="1.20658145" rx="1.14749676" ry="1.16363362"></ellipse>
+                        <ellipse id="Oval-3" fill="#FFFFFF" cx="93.6357352" cy="18.6610858" rx="1.14749676" ry="1.16363362"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <g id="编组-5" transform="translate(225.866667, 252.853333)">
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-29)" xlink:href="#path-28"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-28"></use>
+                </g>
+                <g id="编组-3" transform="translate(46.933333, 4.693333)">
+                    <rect id="bg_chart" fill="#FFFFFF" x="0" y="0.142227159" width="105.570675" height="76.0108859"></rect>
+                    <g id="Group-2" transform="translate(20.269570, 5.631902)">
+                        <path d="M10.9165852,8.34812525 C8.93294264,10.1137862 7.19651972,12.0513624 5.70731648,14.1608539 C4.21811323,16.2703454 3.13190474,18.3781257 2.44869101,20.4841949 L31.1376167,31.9674816 L10.9165852,8.34812525 Z" id="pie_1" fill="#FF5773"></path>
+                        <path d="M12.1733597,7.54546564 L32.1085556,31.3507078 L48.3599313,4.33491572 C41.6641832,1.05168914 35.2864506,-0.322673059 29.2267335,0.211829106 C23.1670165,0.746331272 17.4825586,3.19087678 12.1733597,7.54546564 Z" id="pie_2" fill="#FAD230"></path>
+                        <path d="M49.3064325,5.17025131 L33.1515639,32.3374473 L62.9955629,43.1261625 C65.4417007,35.7380781 65.4417007,28.6485912 62.9955629,21.8577018 C60.5494252,15.0668125 55.9863817,9.50432896 49.3064325,5.17025131 Z" id="pie_3" fill="#49DE76"></path>
+                        <path d="M32.3386703,33.5024445 L17.0171423,60.9074929 C26.8151628,65.8941071 36.1866769,66.358037 45.1316846,62.2992826 C54.0766924,58.2405282 59.8987349,52.3362319 62.5978123,44.5863935 L32.3386703,33.5024445 Z" id="pie_4" fill="#1F93FF"></path>
+                        <path d="M31.0383581,33.3155602 L15.9356766,60.0282222 C9.1774496,56.1598629 4.54056835,50.8372735 2.0250328,44.0604541 C-0.490502754,37.2836348 -0.512351546,29.8902481 1.95948642,21.880294 L31.0383581,33.3155602 Z" id="pie_5" fill="#914DF0"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -135,6 +135,7 @@
   letter-spacing: 0.34px;
   line-height: 32px;
   margin: 0 0 20px;
+  cursor: text;
 }
 
 .introduce-text{
@@ -149,6 +150,7 @@
   font-size: 20px;
   color: #ffffff;
   line-height: 32px; 
+  cursor: text;
 }
 
 .cvbutton{
@@ -163,7 +165,7 @@
   top: -430px; */
   border: none;
   transition: 0.3s;
-  cursor:pointer;
+  cursor: pointer;
 }
 
 .cvbutton:hover {
@@ -237,7 +239,7 @@
 .new-solutions > section .content {
   position: relative;
   background-color: #454646;
-  min-height: 400px;
+  min-height: 366px;
 }
 
 .new-solutions > section .content.comming-soon::after {
@@ -248,10 +250,48 @@
   color: #5F6061;
   letter-spacing: 0.5px;
   text-transform: uppercase;
-  height: 400px;
-  line-height: 400px;
+  height: 366px;
+  line-height: 366px;
   text-align: center;
 }
+
+.solution_zhugeio {
+  width: 500px;
+  height: 366px;
+  background-color: #454646;
+}
+
+.solution_zhugeio:hover {
+  box-shadow: 0 6px 40px 0 #000000;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.solution_ylly {
+  width: 500px;
+  height: 366px;
+  background-color: #454646;
+}
+
+.solution_ylly:hover {
+  box-shadow: 0 6px 40px 0 #000000;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+.solution_boost {
+  width: 500px;
+  height: 366px;
+  background-color: #454646;
+}
+
+.solution_boost:hover {
+  box-shadow: 0 6px 40px 0 #000000;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
+
 
 
 
