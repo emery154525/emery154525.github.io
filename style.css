@@ -291,6 +291,18 @@
   cursor: pointer;
 }
 
+.solution_schaino {
+  width: 500px;
+  height: 366px;
+  background-color: #454646;
+}
+
+.solution_schaino:hover {
+  box-shadow: 0 6px 40px 0 #000000;
+  transition: 0.3s;
+  cursor: pointer;
+}
+
 
 
 
