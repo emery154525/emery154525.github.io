@@ -18,7 +18,7 @@
 }
 
 .brand {
-  font-family: PingFangSC-Medium;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Regular;
   font-size: 28px;
   color: #5E6164;
   letter-spacing: 0.39px;
@@ -32,7 +32,7 @@
 
 .ul{
   position: absolute;
-  font-family: PingFangSC-Regular;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Regular;
   font-size: 18px;
   color: #C7C7C7;
   letter-spacing: 0.25px;
@@ -51,7 +51,7 @@
 }
 
 .ul li a{
-  font-family: PingFangSC-Regular;
+  font-family: Arial, PingFangSC-Regular;
   font-size: 18px;
   color: #C7C7C7;
   text-align: center;
@@ -62,7 +62,7 @@
 
 .ul li a:hover,
 .ul li a.active{
-  font-family: PingFangSC-Medium;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Medium;
   /* font-size: 20px; */
   transform: scale(1.2);
   
@@ -131,7 +131,7 @@
   font-size: 38px;
   font-style: italic;
   color: #ffffff;
-  font-family: PingFangSC-Semibold;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Medium;
   letter-spacing: 0.34px;
   line-height: 32px;
   margin: 0 0 20px;
@@ -143,7 +143,7 @@
   margin: 0;
   width: 500px;
   letter-spacing: 0.8px;
-  font-family: PingFangSC PingFangSC-Regular;
+  font-family: Arial, PingFangSC-Regular;
   font-weight: 300;
   /* top: -430px;
   left: 550px; */
@@ -173,7 +173,7 @@
 }
 
 .cvtext{
-  font-family: HelveticaNeue-Medium;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Regular;
   font-size: 20px;
   color: #FFFFFF;
   letter-spacing: 2.0px;
@@ -186,7 +186,7 @@
 
 .copyright{
   color: #A5A7A8;
-  font-family: "Helvetica Neue";
+  font-family: Arial, PingFangSC-Regular;
   font-size: 12px;
   letter-spacing: 0.17px;
   margin-right: 25px;
@@ -196,7 +196,7 @@
 }
 
 .declare{
-  font-family: PingFangSC-Regular;
+  font-family: Arial, PingFangSC-Regular;
   font-size: 16px;
   color: #666666;
   letter-spacing: 0.14px;
@@ -229,7 +229,7 @@
 }
 
 .new-solutions > section .title {
-  font-family: PingFangSC-Semibold;
+  font-family: 'Arial Rounded MT Bold', PingFangSC-Bold;
   font-size: 22px;
   color: #FFFFFF;
   letter-spacing: 0.22px;
