@@ -38,7 +38,7 @@
   letter-spacing: 0.25px;
   text-align: left;
   line-height: 22px;
-  left: 120px;
+  left: 160px;
   top: 2px;
   text-decoration: none;
   width: 300px;
@@ -278,9 +278,9 @@ color: #444444;
   margin: 18px 20px 0 0;
   float: right;
   position: relative;
-  right: 210px;
+  right: 200px;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 28px;
 }
 
 .icon-bar a{
@@ -313,13 +313,10 @@ color: #444444;
 
 
 @font-face {
-  font-family: 'iconfont';  /* project id 638266 */
-  src: url('//at.alicdn.com/t/font_638266_43irzlggv3k.eot');
-  src: url('//at.alicdn.com/t/font_638266_43irzlggv3k.eot?#iefix') format('embedded-opentype'),
-  url('//at.alicdn.com/t/font_638266_43irzlggv3k.woff2') format('woff2'),
-  url('//at.alicdn.com/t/font_638266_43irzlggv3k.woff') format('woff'),
-  url('//at.alicdn.com/t/font_638266_43irzlggv3k.ttf') format('truetype'),
-  url('//at.alicdn.com/t/font_638266_43irzlggv3k.svg#iconfont') format('svg');
+  font-family: 'iconfont';  /* Project id 638266 */
+  src: url('//at.alicdn.com/t/font_638266_k46s5do8wzi.woff2?t=1641357183894') format('woff2'),
+       url('//at.alicdn.com/t/font_638266_k46s5do8wzi.woff?t=1641357183894') format('woff'),
+       url('//at.alicdn.com/t/font_638266_k46s5do8wzi.ttf?t=1641357183894') format('truetype');
 }
 
 .iconfont {
