@@ -32,13 +32,13 @@
 
 .ul{
   position: absolute;
-  font-family: 'Arial Rounded MT Bold', PingFangSC-Regular;
+  font-family: 'Arial Rounded MT Bold', Arial, Helvetica, sans-serif;
   font-size: 18px;
   color: #C7C7C7;
   letter-spacing: 0.25px;
   text-align: left;
   line-height: 22px;
-  left: 160px;
+  left: 20px;
   top: 2px;
   text-decoration: none;
   width: 300px;
@@ -118,7 +118,7 @@
   width: 500px;
   height: 500px;
   background-size: cover;
-  background-image: url('pics/portrait.JPG');
+  background-image: url('pics/portrait.jpg');
   /* background-image: url(data:image/gif;base64,R0lGODlhBAABAIABAMLBwfLx8SH5BAEAAAEALAAAAAAEAAEAAAICRF4AOw==); */
 }
 
@@ -187,12 +187,12 @@
 .copyright{
   color: #A5A7A8;
   font-family: Arial, PingFangSC-Regular;
-  font-size: 12px;
-  letter-spacing: 0.17px;
-  margin-right: 25px;
+  font-size: 14px;
+  letter-spacing: 0.2px;
+  margin-right: 20px;
   position: absolute;
   right: 0;
-  top: 22px;
+  top: 25px;
 }
 
 .declare{
@@ -275,18 +275,18 @@ color: #444444;
 
 
 .icon-bar{
-  margin: 18px 20px 0 0;
+  margin: 18px 0 0 0;
   float: right;
   position: relative;
-  right: 200px;
+  right: 186px;
   color: #ffffff;
-  font-size: 28px;
+  font-size: 14px;
 }
 
 .icon-bar a{
   text-align: center;
   color: #595B60;
-  margin-right: 10px;
+  margin-right: 8px;
   cursor: pointer;
   text-decoration: none;
 }
